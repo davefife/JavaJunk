@@ -2,9 +2,7 @@
 same as codenotes but for java. 
 I've been working through Sedgewick and Wayne Algorithms 4th edition.
 
-java junk where i save random files.
-
-So I started this, but ended up saving most stuff to my computer offline, 
-which is typical because the web is a distraction.
+java junk where I save random files.
+I mostly work offline.
 
 java is pretty cool, but seems a bit wordy.
