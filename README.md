@@ -1,5 +1,6 @@
 # JavaJunk
-same as codenotes but for java
+same as codenotes but for java. 
+I've been working through Sedgewick and Wayne Algorithms 4th edition.
 
 java junk where i save random files.
 
