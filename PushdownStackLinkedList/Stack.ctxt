@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\r\n\ Write\ a\ description\ of\ Stack\ here.\r\n\ Sedgewick\ and\ Wayne\:\ Algorithms\ 4th\ edition\ ,\ page\ 149\r\n\ Important\ basic\ implementation\ of\ linked-list\ DS\ that\ \r\n\ the\ book\ will\ likely\ use\ to\ build\ more\ complex\ structures.\r\n\ They\ even\ provided\ a\ small\ test\ client\ (main)\ which\ we'll\ implement.\r\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment2.params=
+comment2.target=int\ size()
+comment3.params=item
+comment3.target=void\ push(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ pop()
+numComments=5
