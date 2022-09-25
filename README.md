@@ -5,4 +5,4 @@ I've been working through Sedgewick and Wayne Algorithms 4th edition.
 java junk where I save random files.
 I mostly work offline.
 
-java is pretty cool, but seems a bit wordy.
+
