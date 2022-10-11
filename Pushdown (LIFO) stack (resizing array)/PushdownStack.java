@@ -39,6 +39,10 @@ public class PushdownStack<Item> implements Iterable<Item> {
     }
     public Iterator<Item> iterator()
     { return new ReverseArrayIterator(); }
+    public void peek(){
+      System.out.println(a[a.length-1]);
+      
+    }
     private class ReverseArrayIterator implements Iterator<Item>
     {
         private int i = n-1;
@@ -46,5 +50,7 @@ public class PushdownStack<Item> implements Iterable<Item> {
         public Item next()      {return a[i--];}
         public void remove()    {              }
     }
+    
+   
 }
     
