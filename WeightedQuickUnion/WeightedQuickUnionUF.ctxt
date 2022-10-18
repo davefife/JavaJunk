@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=WeightedQuickUnionUF
+comment0.text=\r\n\ Write\ a\ description\ of\ WeightedQuickUnionUF\ here.\r\n\ Quick-Union\ is\ often\ faster\ than\ Quick-Find,\ which\ can\ be\ slow\ for\ large\ data\r\n\ However,\ Quick-Union\ is\ not\ guaranteed\ to\ be\ faster,\ so\ this\ modification\ always\ makes\ sure\r\n\ that\ the\ tree\ height\ is\ optimized\ to\ be\ as\ short\ as\ possible\ by\ never\ putting\ the\ larger\ tree\r\n\ lower\ than\ the\ shorter\ tree.\ \ This\ can\ be\ shown\ to\ have\ a\ log\ efficiency.\ It\ does\ require\ an\ \r\n\ extra\ array\ to\ hold\ node\ counts.\r\n\ Sedgewick\ and\ Wayne,\ Algorithms\ 4th\ edition\ pg\ 228.\r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=n
+comment1.target=WeightedQuickUnionUF(int)
+comment2.params=
+comment2.target=int\ count()
+comment3.params=p\ q
+comment3.target=boolean\ connected(int,\ int)
+comment4.params=p
+comment4.target=int\ find(int)
+comment5.params=p\ q
+comment5.target=void\ union(int,\ int)
+numComments=6
