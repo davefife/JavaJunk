@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Example
+comment0.text=\r\n\ Write\ a\ description\ of\ Example\ here.\r\n\ template\ of\ conventions\ for\ implementing\ array\ sorts\r\n\ @author\ (your\ name)\ sedgwick\ and\ wayne\ 4th\ ed.\ 245\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a
+comment1.target=void\ sort(java.lang.Comparable[])
+comment2.params=v\ w
+comment2.target=boolean\ less(java.lang.Comparable,\ java.lang.Comparable)
+comment3.params=a\ i\ j
+comment3.target=void\ exchange(java.lang.Comparable[],\ int,\ int)
+comment4.params=a
+comment4.target=void\ show(java.lang.Comparable[])
+comment5.params=a
+comment5.target=boolean\ isSorted(java.lang.Comparable[])
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
