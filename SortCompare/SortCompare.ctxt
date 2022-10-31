@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SortCompare
+comment0.text=\r\n\ Write\ a\ description\ of\ SortCompare\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=alg\ a
+comment1.target=double\ time(java.lang.String,\ java.lang.Double[])
+comment2.params=alg\ n\ trials
+comment2.target=double\ timeRandomInput(java.lang.String,\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
